@@ -21,7 +21,7 @@ A full-stack AI-powered private chat application built using React.js, Node.js, 
 ## Installation ⚙️
 
 ```bash id="2r2zk7"
-git clone https://github.com/yourusername/ai-private-chat-room.git
+git clone https://github.com/Jharwal77/ai-private-chat-room.git
 cd ai-private-chat-room
 npm install
 ```
